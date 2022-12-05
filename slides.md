@@ -4,7 +4,7 @@ theme: acceis
 class: invert
 paginate: true
 header: '![height:20px](themes/logo_acceis_white.svg)'
-footer: '**Cracking hashed known_hosts** - 17/10/2022 - Auteur'
+footer: '**Cracking hashed known_hosts** - 17/10/2022 - Alexandre ZANNI (@noraj)'
 ---
 # Cracking hashed known_hosts
 
