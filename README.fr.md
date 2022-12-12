@@ -5,7 +5,7 @@
 
 **Télécharger / voir** :
 
-[![](https://img.shields.io/badge/pdf-offline-red)](https://github.com/Acceis/prez-known_hosts/releases/download/1.0.0/slides.pdf)
+[![](https://img.shields.io/badge/pdf-offline-red)](https://github.com/Acceis/prez-known_hosts/releases/download/v1.0.0/slides.pdf)
 [![](https://img.shields.io/badge/html-online-green)](https://acceis.github.io/prez-known_hosts/)
 [![](https://img.shields.io/badge/markdown-source-blue)](docs/slides.md)
 
